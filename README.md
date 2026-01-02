@@ -131,7 +131,7 @@ P3   2   8   3   16  14   6
 ## 👩‍💻 Author
 
 **Mayuri Shirsath**
-B.Tech Computer Engineering
+B.E IT Engineer
 
 ---
 
